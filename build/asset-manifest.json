@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.310e5ad3.css",
+    "main.js": "/static/js/main.70669753.js",
+    "static/media/og_img_tw-functional-training-classes.jpg": "/static/media/og_img_tw-functional-training-classes.26dcd4e18670a067c7d1.jpg",
+    "static/media/knplogo.png": "/static/media/knplogo.2ea9b4bed8ff749681ce.png",
+    "static/media/gym.png": "/static/media/gym.6e701417c428e2fbc267.png",
+    "index.html": "/index.html",
+    "main.310e5ad3.css.map": "/static/css/main.310e5ad3.css.map",
+    "main.70669753.js.map": "/static/js/main.70669753.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.310e5ad3.css",
+    "static/js/main.70669753.js"
+  ]
+}
