@@ -9,7 +9,7 @@ Modern Fitness App using RapidAPI ExerciseDB and RapidAPI Youtube Search. React 
 - https://rapidapi.com/justin-WFnsXH_t6/api/exercisedb?utm_source=youtube.com%2FJavaScriptMastery&utm_medium=referral&utm_campaign=DevRel
 - https://rapidapi.com/h0p3rwe/api/youtube-search-and-download?utm_source=youtube.com%2FJavaScriptMastery&utm_medium=referral&utm_campaign=DevRel
 
-![ReactFitnessLibraryApp]
+![ReactFitnessLibraryApp](image/screenshot.png)
 
 # Getting Started with Create React App
 
