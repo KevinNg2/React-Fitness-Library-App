@@ -6,9 +6,11 @@ Modern Fitness App using RapidAPI ExerciseDB and RapidAPI Youtube Search. React 
 - Advanced React Best Practices such as file structure and hooks
 - Creating a Beautiful User Interface using the Material UI (version 5)
 - Fetching data from unlimited sources using RapidAPI
-- https://rapidapi.com/justin-WFnsXH_t6/api/exercisedb?utm_source=youtube.com%2FJavaScriptMastery&utm_medium=referral&utm_campaign=DevRel
-- https://rapidapi.com/h0p3rwe/api/youtube-search-and-download?utm_source=youtube.com%2FJavaScriptMastery&utm_medium=referral&utm_campaign=DevRel
-[React Fitness Library App - Deployed Website](https://react-fitness-library.netlify.app/)
+- [RapidAPI Exercise DB](https://rapidapi.com/justin-WFnsXH_t6/api/exercisedb?utm_source=youtube.com%2FJavaScriptMastery&utm_medium=referral&utm_campaign=DevRel)
+- [RapidAPI Youtube Search](https://rapidapi.com/h0p3rwe/api/youtube-search-and-download?utm_source=youtube.com%2FJavaScriptMastery&utm_medium=referral&utm_campaign=DevRel)
+
+  
+- [React Fitness Library App - Deployed Website](https://react-fitness-library.netlify.app/)
 ![ReactFitnessLibraryApp](images/screenshot.png)
 
 # Getting Started with Create React App
